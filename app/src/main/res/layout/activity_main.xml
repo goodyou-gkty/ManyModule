@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/image_upper"
+        android:layout_width="match_parent"
+        android:layout_height="498dp"
+        android:alpha="1"
+        android:clickable="true"
+        android:contentDescription="@string/frontmessage"
+        android:focusable="auto"
+        android:gravity="fill"
+        android:onClick="firstAnimation"
+        android:padding="10dp"
+        app:srcCompat="@drawable/diary" />
+
+
+    <GridLayout
+        android:id="@+id/grid_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:alpha="0"
+        android:background="@drawable/board"
+        android:clipChildren="true"
+        android:columnCount="4"
+        android:columnOrderPreserved="true"
+        android:padding="2dp"
+        android:rowCount="3">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="101dp"
+            android:layout_height="122dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:contentDescription="@string/gridImage1"
+            android:onClick="imageMenuclick"
+            app:srcCompat="@drawable/greenpencil" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="101dp"
+            android:layout_height="118dp"
+            android:layout_row="0"
+            android:layout_column="1"
+            android:layout_marginRight="25dp"
+            android:contentDescription="@string/gridImage2"
+            android:onClick="imageMenuclick"
+            app:srcCompat="@drawable/lock" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="95dp"
+            android:layout_height="117dp"
+            android:layout_row="0"
+            android:layout_column="2"
+            android:contentDescription="@string/gridImage3"
+            android:onClick="imageMenuclick"
+            app:srcCompat="@drawable/dialy" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="111dp"
+            android:layout_height="145dp"
+            android:layout_row="1"
+            android:layout_column="0"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginRight="40dp"
+            android:contentDescription="@string/gridImage4"
+            android:onClick="imageMenuclick"
+            app:srcCompat="@drawable/best" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="99dp"
+            android:layout_height="117dp"
+            android:layout_row="1"
+            android:layout_column="1"
+            android:layout_marginTop="110dp"
+            android:contentDescription="@string/gridImage5"
+            android:onClick="firstAnimation"
+            app:srcCompat="@drawable/privatediary" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="123dp"
+            android:layout_height="75dp"
+            android:layout_row="1"
+            android:layout_column="2"
+            android:layout_marginTop="120dp"
+            android:contentDescription="@string/gridImage6"
+            android:onClick="imageMenuclick"
+            app:srcCompat="@drawable/activity" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="101dp"
+            android:layout_height="103dp"
+            android:layout_row="2"
+            android:layout_column="0"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="75dp"
+            android:contentDescription="@string/gridImage7"
+            android:onClick="imageMenuclick"
+            app:srcCompat="@drawable/pencil" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="93dp"
+            android:layout_height="99dp"
+            android:layout_row="2"
+            android:layout_column="1"
+            android:layout_marginTop="75dp"
+            android:contentDescription="@string/gridImage8"
+            android:onClick="imageMenuclick"
+            app:srcCompat="@drawable/video" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="105dp"
+            android:layout_height="95dp"
+            android:layout_row="2"
+            android:layout_column="2"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="75dp"
+            android:contentDescription="@string/gridImage9"
+            android:onClick="imageMenuclick"
+            app:srcCompat="@drawable/user" />
+    </GridLayout>
+
+    <LinearLayout
+        android:id="@+id/linearPopup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:alpha="0"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/audio"
+            android:layout_width="227dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:background="#FF2A31"
+            android:onClick="startAudio"
+            android:text="@string/audio" />
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="match_parent"
+            android:layout_height="16dp"
+            android:layout_marginBottom="8dp"
+            android:alpha="1"
+            android:background="@android:drawable/presence_busy" />
+
+        <Button
+            android:id="@+id/video"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FF1B97"
+            android:onClick="startVideo"
+            android:padding="10dp"
+            android:text="@string/video" />
+    </LinearLayout>
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginBottom="200dp"
+        android:alpha="0" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center_horizontal"
+        android:alpha="0"
+        />
+
+    <TextView
+        android:id="@+id/InfotextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="30dp"
+        android:alpha="0"
+        android:background="#D15D5D"
+        android:padding="10dp"
+        android:textColorHighlight="#A5D44D"
+        android:textSize="50sp"
+        android:layout_marginStart="20dp"
+        android:textStyle="bold|italic"
+        android:layout_marginEnd="30dp"/>
+
+
+</FrameLayout>
