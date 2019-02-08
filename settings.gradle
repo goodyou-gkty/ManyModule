@@ -1,1 +1,1 @@
-include ':app', ':newdiarymodule', ':ParseStarterProject', ':myuberclone'
+include ':app', ':newdiarymodule', ':ParseStarterProject', ':myuberclone', ':extras'
