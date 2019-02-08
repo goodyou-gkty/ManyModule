@@ -4,27 +4,27 @@ ADDED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/m
 INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:2:1-36:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gautam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/06318dcb875db9ff9cfdd37bd678e73e/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:design:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f192c152e57c043fa5ad1f993d89aaa2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/7f7d03d4f7e36c753c32ca0ecf60318e/AndroidManifest.xml:17:1-32:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/25843116fe82bf97e7a5b134f9151c2b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3ce0a3391ac313a998ca0462defbb5f0/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/179413e3d66ce3cf15b947816657536c/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b24aaa1c36fea80a1ba2a353b203302/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f6eb22a8019039086dd41baa49b14e1d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/7283b8f943e6237fd81849ee878dd9c6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/1e6d9ccc25d05f84c7e09831a99cc3c0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/05801ed9b7edad7c6a9551568e62e481/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cb1ee59adf2e05eab3da4e7e86b91881/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/753e40a12d828d38c1ecf05e45375c2a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bbda0e9c7760059b213a55251b87ae36/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2af6d3ef72021e83c26a239630b394b1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/01888b4df988495f4869af463489f9a6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/36e5bab44577d314a1fb853585476fb2/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bc3b938d6b895bfaeb286d1e3a157a1a/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c2a06f7a4952201fb09c41e99aca01e6/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1abf6cc23d73f108a19ac2f27e43c7ec/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/aa7d6b6fd44dcbcbee15e8e4c3052c75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gautam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ba0bb876ad40b0b18d1e5fd7371a8441/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9c180ec50a0299f41c6c710e2805b65f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/cc4a59ec9870224797dc0e1ee6292fec/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/782391c1483dfdc6666f133cfa6462f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d203d8117b327df10c18e40ace90f8c4/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/96eb3504b1f575e3c944ef6028dfdc58/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/cd1da632442dd6891c8eaf035d7443fb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/77778c5a6e4c677e57e75a672b8add63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6cc581cdb4b9841a94e6d879431a25c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/bcde554efd276fb8cd8c701142b06cc3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/823498d90635831061f916713050a42f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/399f6cc407af6824d5ab961eddd2f727/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/387b3f6ac92efd3a44defa6d63adad96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b5ed42334460bf76ff8881ead5e70313/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/80cd80d4c8194c6051fd272c9572cbdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/88b425dfd78006587eb3ce4f61cd7448/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c712c8b650fa0674b06b8783511f75e1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7223142d9cd23812d3de3f72e9cd3af7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3886adf980ef3e74cd866bb8f52c5199/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e0256c70b0d421f0101e40d1a018b0b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2f943fe3777c08dded398c5e9743ff64/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:2:1-36:12
 INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:2:1-36:12
@@ -44,14 +44,14 @@ INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/sr
 		ADDED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/7f7d03d4f7e36c753c32ca0ecf60318e/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/7f7d03d4f7e36c753c32ca0ecf60318e/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/cc4a59ec9870224797dc0e1ee6292fec/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/cc4a59ec9870224797dc0e1ee6292fec/AndroidManifest.xml:24:5-67
 	android:name
 		ADDED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:6:5-79
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/7f7d03d4f7e36c753c32ca0ecf60318e/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/7f7d03d4f7e36c753c32ca0ecf60318e/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/cc4a59ec9870224797dc0e1ee6292fec/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/cc4a59ec9870224797dc0e1ee6292fec/AndroidManifest.xml:23:5-79
 	android:name
 		ADDED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
@@ -60,16 +60,16 @@ ADDED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/m
 		ADDED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:7:22-77
 application
 ADDED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:9:5-34:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gautam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/06318dcb875db9ff9cfdd37bd678e73e/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gautam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/06318dcb875db9ff9cfdd37bd678e73e/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/7f7d03d4f7e36c753c32ca0ecf60318e/AndroidManifest.xml:30:5-20
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/7f7d03d4f7e36c753c32ca0ecf60318e/AndroidManifest.xml:30:5-20
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3ce0a3391ac313a998ca0462defbb5f0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3ce0a3391ac313a998ca0462defbb5f0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/179413e3d66ce3cf15b947816657536c/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/179413e3d66ce3cf15b947816657536c/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b24aaa1c36fea80a1ba2a353b203302/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b24aaa1c36fea80a1ba2a353b203302/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gautam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ba0bb876ad40b0b18d1e5fd7371a8441/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gautam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ba0bb876ad40b0b18d1e5fd7371a8441/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/cc4a59ec9870224797dc0e1ee6292fec/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/cc4a59ec9870224797dc0e1ee6292fec/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d203d8117b327df10c18e40ace90f8c4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d203d8117b327df10c18e40ace90f8c4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/96eb3504b1f575e3c944ef6028dfdc58/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/96eb3504b1f575e3c944ef6028dfdc58/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/cd1da632442dd6891c8eaf035d7443fb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/cd1da632442dd6891c8eaf035d7443fb/AndroidManifest.xml:22:5-26:19
 	android:label
 		ADDED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml:13:9-41
 	android:icon
@@ -120,48 +120,48 @@ uses-sdk
 INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml
 INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gautam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/06318dcb875db9ff9cfdd37bd678e73e/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gautam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/06318dcb875db9ff9cfdd37bd678e73e/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f192c152e57c043fa5ad1f993d89aaa2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f192c152e57c043fa5ad1f993d89aaa2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/7f7d03d4f7e36c753c32ca0ecf60318e/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/7f7d03d4f7e36c753c32ca0ecf60318e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/25843116fe82bf97e7a5b134f9151c2b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/25843116fe82bf97e7a5b134f9151c2b/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3ce0a3391ac313a998ca0462defbb5f0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3ce0a3391ac313a998ca0462defbb5f0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/179413e3d66ce3cf15b947816657536c/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/179413e3d66ce3cf15b947816657536c/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b24aaa1c36fea80a1ba2a353b203302/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b24aaa1c36fea80a1ba2a353b203302/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f6eb22a8019039086dd41baa49b14e1d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f6eb22a8019039086dd41baa49b14e1d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/7283b8f943e6237fd81849ee878dd9c6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/7283b8f943e6237fd81849ee878dd9c6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/1e6d9ccc25d05f84c7e09831a99cc3c0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/1e6d9ccc25d05f84c7e09831a99cc3c0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/05801ed9b7edad7c6a9551568e62e481/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/05801ed9b7edad7c6a9551568e62e481/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cb1ee59adf2e05eab3da4e7e86b91881/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cb1ee59adf2e05eab3da4e7e86b91881/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/753e40a12d828d38c1ecf05e45375c2a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/753e40a12d828d38c1ecf05e45375c2a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bbda0e9c7760059b213a55251b87ae36/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bbda0e9c7760059b213a55251b87ae36/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2af6d3ef72021e83c26a239630b394b1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2af6d3ef72021e83c26a239630b394b1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/01888b4df988495f4869af463489f9a6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/01888b4df988495f4869af463489f9a6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/36e5bab44577d314a1fb853585476fb2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/36e5bab44577d314a1fb853585476fb2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bc3b938d6b895bfaeb286d1e3a157a1a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bc3b938d6b895bfaeb286d1e3a157a1a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c2a06f7a4952201fb09c41e99aca01e6/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c2a06f7a4952201fb09c41e99aca01e6/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1abf6cc23d73f108a19ac2f27e43c7ec/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1abf6cc23d73f108a19ac2f27e43c7ec/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/aa7d6b6fd44dcbcbee15e8e4c3052c75/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/aa7d6b6fd44dcbcbee15e8e4c3052c75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gautam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ba0bb876ad40b0b18d1e5fd7371a8441/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gautam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ba0bb876ad40b0b18d1e5fd7371a8441/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9c180ec50a0299f41c6c710e2805b65f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9c180ec50a0299f41c6c710e2805b65f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/cc4a59ec9870224797dc0e1ee6292fec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/cc4a59ec9870224797dc0e1ee6292fec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/782391c1483dfdc6666f133cfa6462f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/782391c1483dfdc6666f133cfa6462f6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d203d8117b327df10c18e40ace90f8c4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d203d8117b327df10c18e40ace90f8c4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/96eb3504b1f575e3c944ef6028dfdc58/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/96eb3504b1f575e3c944ef6028dfdc58/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/cd1da632442dd6891c8eaf035d7443fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/cd1da632442dd6891c8eaf035d7443fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/77778c5a6e4c677e57e75a672b8add63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/77778c5a6e4c677e57e75a672b8add63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6cc581cdb4b9841a94e6d879431a25c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6cc581cdb4b9841a94e6d879431a25c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/bcde554efd276fb8cd8c701142b06cc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/bcde554efd276fb8cd8c701142b06cc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/823498d90635831061f916713050a42f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/823498d90635831061f916713050a42f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/399f6cc407af6824d5ab961eddd2f727/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/399f6cc407af6824d5ab961eddd2f727/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/387b3f6ac92efd3a44defa6d63adad96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/387b3f6ac92efd3a44defa6d63adad96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b5ed42334460bf76ff8881ead5e70313/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b5ed42334460bf76ff8881ead5e70313/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/80cd80d4c8194c6051fd272c9572cbdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/80cd80d4c8194c6051fd272c9572cbdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/88b425dfd78006587eb3ce4f61cd7448/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/88b425dfd78006587eb3ce4f61cd7448/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c712c8b650fa0674b06b8783511f75e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c712c8b650fa0674b06b8783511f75e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7223142d9cd23812d3de3f72e9cd3af7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7223142d9cd23812d3de3f72e9cd3af7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3886adf980ef3e74cd866bb8f52c5199/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3886adf980ef3e74cd866bb8f52c5199/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e0256c70b0d421f0101e40d1a018b0b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e0256c70b0d421f0101e40d1a018b0b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2f943fe3777c08dded398c5e9743ff64/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2f943fe3777c08dded398c5e9743ff64/AndroidManifest.xml:20:5-44
 INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml
 INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -173,22 +173,22 @@ INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/sr
 		ADDED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/src/main/AndroidManifest.xml
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/7f7d03d4f7e36c753c32ca0ecf60318e/AndroidManifest.xml:26:5-28:35
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/cc4a59ec9870224797dc0e1ee6292fec/AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/7f7d03d4f7e36c753c32ca0ecf60318e/AndroidManifest.xml:27:9-41
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/cc4a59ec9870224797dc0e1ee6292fec/AndroidManifest.xml:27:9-41
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/7f7d03d4f7e36c753c32ca0ecf60318e/AndroidManifest.xml:28:9-32
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/cc4a59ec9870224797dc0e1ee6292fec/AndroidManifest.xml:28:9-32
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3ce0a3391ac313a998ca0462defbb5f0/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d203d8117b327df10c18e40ace90f8c4/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3ce0a3391ac313a998ca0462defbb5f0/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d203d8117b327df10c18e40ace90f8c4/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3ce0a3391ac313a998ca0462defbb5f0/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d203d8117b327df10c18e40ace90f8c4/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3ce0a3391ac313a998ca0462defbb5f0/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d203d8117b327df10c18e40ace90f8c4/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b24aaa1c36fea80a1ba2a353b203302/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/cd1da632442dd6891c8eaf035d7443fb/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b24aaa1c36fea80a1ba2a353b203302/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/cd1da632442dd6891c8eaf035d7443fb/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b24aaa1c36fea80a1ba2a353b203302/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/cd1da632442dd6891c8eaf035d7443fb/AndroidManifest.xml:24:13-58

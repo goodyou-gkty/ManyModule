@@ -4,24 +4,7 @@
             "outputFile": "/home/gautam/AndroidStudioProjects/NewDiary/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "/home/gautam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/25843116fe82bf97e7a5b134f9151c2b/res/values-fr-rCA/values-fr-rCA.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,1937",
-                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
-                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,2018"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,4838",
-                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
-                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,4919"
-                    }
-                },
-                {
-                    "source": "/home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3ce0a3391ac313a998ca0462defbb5f0/res/values-fr-rCA/values.xml",
+                    "source": "/home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/d203d8117b327df10c18e40ace90f8c4/res/values-fr-rCA/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,24 +21,24 @@
                     }
                 },
                 {
-                    "source": "/home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b24aaa1c36fea80a1ba2a353b203302/res/values-fr-rCA/values.xml",
+                    "source": "/home/gautam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/782391c1483dfdc6666f133cfa6462f6/res/values-fr-rCA/values-fr-rCA.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "219",
-                        "endOffsets": "470"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,1937",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,2018"
                     },
                     "to": {
-                        "startLines": "27",
-                        "startColumns": "4",
-                        "startOffsets": "3158",
-                        "endColumns": "219",
-                        "endOffsets": "3373"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,4838",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,4919"
                     }
                 },
                 {
-                    "source": "/home/gautam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/36e5bab44577d314a1fb853585476fb2/res/values-fr-rCA/values-fr-rCA.xml",
+                    "source": "/home/gautam/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c712c8b650fa0674b06b8783511f75e1/res/values-fr-rCA/values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -69,6 +52,23 @@
                         "startOffsets": "4924",
                         "endColumns": "100",
                         "endOffsets": "5020"
+                    }
+                },
+                {
+                    "source": "/home/gautam/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/cd1da632442dd6891c8eaf035d7443fb/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "219",
+                        "endOffsets": "470"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "3158",
+                        "endColumns": "219",
+                        "endOffsets": "3373"
                     }
                 }
             ]

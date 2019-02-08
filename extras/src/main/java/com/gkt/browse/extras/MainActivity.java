@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
     private ListView listView;
     private ArrayAdapter<String>arrayAdapter;
     private Button firebase;
+    private Button admob;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -120,5 +121,16 @@ public class MainActivity extends AppCompatActivity {
              }
          });
 
+         admob = (Button)findViewById(R.id.admob);
+
+         admob.setOnClickListener(new View.OnClickListener() {
+             @Override
+             public void onClick(View v) {
+
+                 Intent intent = new Intent(getApplicationContext(),Adverrise.class);
+
+                 startActivity(intent);
+             }
+         });
     }
 }

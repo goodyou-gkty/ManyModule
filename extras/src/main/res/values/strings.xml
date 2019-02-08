@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Extras</string>
+    <string name="app_id">ca-app-pub-9555529225507531~4105560887</string>
+    <string name="hello_world">hello</string>
 </resources>
