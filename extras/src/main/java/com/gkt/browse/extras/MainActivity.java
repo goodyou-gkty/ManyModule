@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private ArrayList<String>devices;
     private ListView listView;
     private ArrayAdapter<String>arrayAdapter;
+    private Button firebase;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -108,6 +109,16 @@ public class MainActivity extends AppCompatActivity {
              }
          });
 
+         firebase = (Button)findViewById(R.id.FirebaseActivity);
+
+         firebase.setOnClickListener(new View.OnClickListener() {
+             @Override
+             public void onClick(View v) {
+
+                 Intent intent = new Intent(getApplicationContext(),Firebase.class);
+                 startActivity(intent);
+             }
+         });
 
     }
 }
